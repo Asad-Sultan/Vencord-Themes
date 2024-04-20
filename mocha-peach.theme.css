@@ -1,0 +1,18 @@
+/**
+ * @name Catppuccin Mocha Peach
+ * @description A dark, rounded discord theme. Based on catppuccin mocha.
+ * @author refact0r (tweaked by zero.mp4)
+*/
+
+@import url("mocha-default/midnight-catppuccin-mocha.css");
+
+:root {
+  /* accent colors */
+  --accent-1: hsl(23, 92%, 75%); /* links */
+  --accent-2: hsl(23, 92%, 75%); /* general unread/mention elements */
+  --accent-3: hsl(23, 92%, 75%); /* accent buttons */
+  --accent-4: hsl(23, 78%, 67%); /* accent buttons when hovered */
+  --accent-5: hsl(23, 63%, 59%); /* accent buttons when clicked */
+  --mention: hsla(23, 92%, 75%, 0.15); /* mentions & mention messages */
+  --mention-hover: hsla(23, 92%, 75%, 0.075); /* mentions & mention messages when hovered */
+}
