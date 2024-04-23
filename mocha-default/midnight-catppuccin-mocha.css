@@ -71,3 +71,10 @@
   --green-to-accent-3-filter: none; /* add friend page explore icon */
   --blurple-to-accent-3-filter: none; /* add friend page school icon */
 }
+
+.top__81fa6 > .containerPadding_ca1052 {
+  margin-top: -12px;
+}
+.bottom__53f5a > .containerPadding_ca1052 {
+  margin-bottom: -12px;
+}
