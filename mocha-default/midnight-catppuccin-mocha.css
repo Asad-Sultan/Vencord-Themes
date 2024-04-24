@@ -75,6 +75,11 @@
 .top__81fa6 > .containerPadding_ca1052 {
   margin-top: -12px;
 }
+
 .bottom__53f5a > .containerPadding_ca1052 {
   margin-bottom: -12px;
+}
+
+.newMessagesBar__8b272 {
+	top: -12px;
 }
